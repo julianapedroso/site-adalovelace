@@ -6,7 +6,7 @@ header {
   background-color: #0d003d;
   color: #fff;
   height: 12vh;
-  padding-top: 4em;
+  padding-top: 2em;
 }
 
 body {
@@ -23,7 +23,7 @@ body {
 
 section {
   width: 80%;
-  height: 50%;
+  height: 30%;
   margin: 0 auto;
 }
 
@@ -32,32 +32,31 @@ section section {
 }
 
 h1 {
-  font-size: 3em;
-  font-weight: normal;
-  font-family: "Concert One", cursive;
+  font-size: 1.7em;
+  font-weight: bold;
 }
 
 h2 {
   color: #2a0074;
-  font-size: 40px;
+  font-size: 1.8em;
   margin: 0.8em;
 }
 
 h3 {
   color: #644297;
-  font-size: 1.5em;
+  font-size: 1.3em;
   margin-top: 1.5em;
 }
 
 h4 {
   color: #fff;
-  font-size: 1.1em;
+  font-size: 0.9em;
   font-weight: normal;
-  margin-top: 0.5em;
+  margin-top: 0.6em;
 }
 
 p {
-  font-size: 1.4rem;
+  font-size: 1rem;
   line-height: 1, 5;
   text-align: justify;
   margin: 1em;
@@ -69,7 +68,6 @@ img {
 
 ul {
   list-style-type: none;
-  line-height: 2;
 }
 
 ul li {
@@ -80,7 +78,13 @@ a {
   text-decoration: none;
   color: #0d003d;
   font-weight: 700;
-  font-size: 1.2em;
+  font-size: 1.1em;
+}
+
+a:hover {
+    color: #644297;
+    opacity: 0.6;
+    transition: 300ms;
 }
 
 .principal {
@@ -91,8 +95,8 @@ a {
 }
 
 .principal a {
-  color: #ffffff;
-  font-size: 1.5em;
+  color: #fff;
+  font-size: 1.1em;
   font-weight: normal;
   text-decoration: none;
 }
@@ -106,14 +110,21 @@ a {
 .principal li {
   display: inline-block;
   line-height: 2.5;
-  margin: 0.8em 5em;
+  margin: 0.5em 2em 0.5em 2em;
+}
+
+label {
+    font-size: 0.8em;
+    font-weight: 600;
+    color: #fff;
 }
 
 #nome,
 #email,
 #telefone {
   width: 12vw;
-  height: 2.5vh;
+  height: 2.7vh;
+  border: 2px solid #351968;
   border-radius: 5px;
   margin-top: 1.8em;
 }
@@ -123,8 +134,8 @@ button {
   border: 1px solid transparent;
   border-radius: 5px;
   padding: 2px 20px;
-  width: 5vw;
-  height: 3vh;
+  width: 6vw;
+  height: 3.5vh;
   cursor: pointer;
 }
 
@@ -137,7 +148,7 @@ button:hover {
 
 footer {
   background-color: #644297;
-  height: 13vh;
+  height: 15vh;
   position: absolute;
   width: 100%;
 }
