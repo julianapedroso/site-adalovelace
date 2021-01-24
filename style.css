@@ -82,9 +82,9 @@ a {
 }
 
 a:hover {
-    color: #644297;
-    opacity: 0.6;
-    transition: 300ms;
+  color: #644297;
+  opacity: 0.6;
+  transition: 300ms;
 }
 
 .principal {
@@ -114,9 +114,9 @@ a:hover {
 }
 
 label {
-    font-size: 0.8em;
-    font-weight: 600;
-    color: #fff;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #fff;
 }
 
 #nome,
