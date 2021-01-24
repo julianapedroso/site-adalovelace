@@ -1,6 +1,10 @@
 # Site Ada Lovelace 👑💜
 Criação do meu primeiro site realizado pelo programa de bolsas eu progr{amo} - PrograMaria.
 
+<h2 align='center'>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianapedroso/siteadalovelace"> <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianapedroso/siteadalovelace">
+</h2>
+
 <h4 align="center"> 
 👉 Status: Concluído ✅👏
 </h4>
