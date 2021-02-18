@@ -17,9 +17,6 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ### 🎨 Layout:
 - CSS
 
-### 🛠 Ferramentas:
-As seguintes ferramentas foram usadas na construção do projeto:
-
 ### 📷 Prints:
 
 ![image](https://user-images.githubusercontent.com/68782453/105636460-4350f480-5e47-11eb-9e56-294c15aa5131.png)
